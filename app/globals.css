@@ -24,3 +24,135 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.chakra-petch-light {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.chakra-petch-regular {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chakra-petch-medium {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.chakra-petch-semibold {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.chakra-petch-bold {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.chakra-petch-light-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.chakra-petch-regular-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.chakra-petch-medium-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.chakra-petch-semibold-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.chakra-petch-bold-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.section1-box{
+  background-color: rgb(255, 227, 208);
+}
+
+.section1-name{
+  text-align:center;
+  color: black;
+  font-size: 60px;
+}
+.section1-meta-data{
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+.section1-profile-picture {
+  width: 500px;
+  margin-left: 35%;
+}
+.section1-profile-description{
+  text-align: center;
+  color: black;
+  font-size:20px ;
+}
+.section2-box{
+  background-color: bisque;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.section2-contact-link{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+
+}
+.section3-box {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.section3-box-a {
+  background-color: aquamarine;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.section3-box-b {
+  background-color: rgb(255, 227, 208);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.menu-selection {
+display: flex;
+justify-content: space-around;
+background-color: rgb(2, 98, 222);
+}
+
+.menu-item {
+color: white;
+text-align: center;
+font-size: 40px;
+padding: 20px;
+}
+
