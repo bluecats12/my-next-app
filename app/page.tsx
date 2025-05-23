@@ -3,7 +3,7 @@ import MenuBar from "@/components/MenuBar"
 export default function IndexPsge(){
 return(
  <div>
-    <MenuBar/>
+    <MenuBar page="หน้าหลัก"/>
   {/*section1 */}
   <div className="section1-box">
     <h1 className="section1-name chakra-petch-light"> thayawat</h1>
